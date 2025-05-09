@@ -1,4 +1,4 @@
-1. checking the and testing it
+1. checking the and testing it and solved it
 2. merge conflict check 
 3. why it is happening 
 4. i dont know
