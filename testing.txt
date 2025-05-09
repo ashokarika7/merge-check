@@ -1,5 +1,5 @@
 1. checking the and testing it and solved it
-2. merge conflict check 
+2. merge conflict check is done
 3. why it is happening 
 4. i dont know
 5.added feature branch
