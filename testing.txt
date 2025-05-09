@@ -1,0 +1,4 @@
+1. checking the text
+2. merge conflict check 
+3. why it is happening 
+4. i dont know
